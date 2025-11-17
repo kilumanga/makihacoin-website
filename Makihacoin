@@ -1,22 +1,108 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Makihacoin (MKH) – Official Site</title>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makiha Coin (MKH) - Hope For Every Child</title>
 </head>
-<body>
-    <h1>Makihacoin (MKH)</h1>
-    <p>Hope for Every Child</p>
 
-    <h3>Token Address:</h3>
-    <p>0x58AD581E78aa962Bf9b76AdE8cCb3172eF191A30</p>
+<body style="margin:0; font-family:Arial, sans-serif; background:#000;">
 
-    <h3>About Makihacoin</h3>
-    <p>Makiha is a charity-focused token supporting healthcare, education, and well-being for children across Africa.</p>
+    <!-- 1. HEADER -->
+    <header style="display:flex; align-items:center; padding:18px; background:#000; border-bottom:2px solid gold;">
+        <img src="logo.png" alt="Makiha Coin Logo" style="width:60px; height:60px; border-radius:12px; margin-right:15px;">
+        <h1 style="font-size:28px; margin:0; color:gold; font-weight:bold;">Makiha Coin (MKH)</h1>
+    </header>
 
-    <h3>Charity Wallet:</h3>
-    <p>0x219E47460c669952bb506F2877c97B42067e6aeC</p>
 
-    <p>This is a temporary official website for the Makihacoin project.</p>
+    <!-- 2. HERO SECTION -->
+    <section style="background:#000; color:white; padding:60px 20px; text-align:center;">
+        <h2 style="color:gold; font-size:32px;">Hope For Every Child</h2>
+
+        <p style="font-size:18px; max-width:700px; margin:auto;">
+            MakihaCoin (MKH) ni token ya kusaidia watoto barani Afrika kupata
+            huduma za afya, elimu, chakula, bima za afya na makazi kupitia blockchain —
+            kwa uwazi, usalama na kasi.
+        </p>
+
+        <div style="margin-top:25px;">
+            <a href="makiha_whitepaper.pdf" 
+               style="background:gold; padding:12px 25px; color:black; font-weight:bold;
+                      border-radius:6px; text-decoration:none; margin-right:10px;">
+                Whitepaper
+            </a>
+
+            <a href="https://bscscan.com/address/0x58AD581E78aa962Bf9b76AdE8cCb3172eF191A30"
+               style="background:white; padding:12px 25px; color:black; font-weight:bold;
+                      border-radius:6px; text-decoration:none;">
+                View Contract
+            </a>
+        </div>
+    </section>
+
+
+    <!-- 3. CONTRACT ADDRESS + QR -->
+    <section style="padding:40px; text-align:center; background:#111; color:white;">
+        <h2 style="color:gold;">Official Contract Address</h2>
+
+        <p style="font-size:20px; font-weight:bold; word-break:break-all;">
+            0x58AD581E78aa962Bf9b76AdE8cCb3172eF191A30
+        </p>
+
+        <img src="makihacoin_qr_code.png" style="width:180px; margin-top:20px;">
+    </section>
+
+
+    <!-- 4. TOKENOMICS -->
+    <section style="padding:40px; background:#000; color:white;">
+        <h2 style="color:gold; text-align:center;">Tokenomics</h2>
+
+        <ul style="list-style:none; text-align:center; font-size:18px; line-height:28px;">
+            <li>Total Supply: <b>1,000,000,000 MKH</b></li>
+            <li>Liquidity: <b>80%</b></li>
+            <li>Team: <b>10%</b></li>
+            <li>Community & Airdrop: <b>10%</b></li>
+        </ul>
+    </section>
+
+
+    <!-- 5. ROADMAP -->
+    <section style="padding:40px; background:#111; color:white;">
+        <h2 style="color:gold; text-align:center;">Roadmap</h2>
+
+        <ol style="max-width:600px; margin:auto; font-size:18px; line-height:30px;">
+            <li>Token Launch ✔</li>
+            <li>Website & Whitepaper ✔</li>
+            <li>Smart Contract Verification</li>
+            <li>Investor Community Building</li>
+            <li>Charity Partnerships Across Africa</li>
+            <li>Makiha Mobile App Launch</li>
+        </ol>
+    </section>
+
+
+    <!-- 6. CHARITY MISSION -->
+    <section style="padding:40px; background:#000; color:white;">
+        <h2 style="color:gold; text-align:center;">Our Charity Mission</h2>
+
+        <p style="max-width:700px; margin:auto; font-size:18px; line-height:28px; text-align:center;">
+            MakihaCoin inalenga kusaidia watoto wanaoishi katika mazingira magumu 
+            kwa kuwapatia bima za afya, elimu, chakula na makazi.
+            Tunatumia blockchain kuhakikisha kila mchango una uwazi na kufika kwa watoto wanaohitaji.
+        </p>
+    </section>
+
+
+    <!-- 7. FOOTER -->
+    <footer style="background:#111; color:white; padding:20px; text-align:center;">
+        <p>© 2025 MakihaCoin — Hope For Every Child</p>
+
+        <p>Follow us:</p>
+        <p>
+            Twitter | Telegram | Instagram  
+            (links coming soon)
+        </p>
+    </footer>
+
 </body>
 </html>
