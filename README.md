@@ -1,4 +1,4 @@
-✅ 2. OFFICIAL LAUNCH ANNOUNCEMENT (For Social Media & Website)
+<img width="800" height="533" alt="makiha_resized_800" src="https://github.com/user-attachments/assets/561cabab-c866-4d0a-91dc-fefdb8357158" />
 
 🚀 OFFICIAL LAUNCH OF MAKIHACOIN (MKH) – EMPOWER AFRICA’S CHILDREN!
 
