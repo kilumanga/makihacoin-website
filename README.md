@@ -1,22 +1,43 @@
-<section id="announcement" style="padding: 40px; background: #fff7d1; border-radius: 12px; margin-top: 30px;">
-    <h2 style="color: #d4a017; font-size: 28px; margin-bottom: 10px;">
-        📢 MKH Announcement
-    </h2>
-    <p style="font-size: 18px; color: #333;">
-        We are excited to announce the official launch of <strong>Makihacoin (MKH)</strong>, a charity-driven token dedicated 
-        to supporting African children with education, health insurance, food security, and shelter.
-    </p>
+✅ 2. OFFICIAL LAUNCH ANNOUNCEMENT (For Social Media & Website)
 
-    <h3 style="margin-top: 25px; color: #d4a017;">🔥 Presale is Now Open!</h3>
-    <p style="font-size: 18px; color: #333;">
-        The MKH presale has officially begun. Be among the first supporters to join our mission of restoring hope 
-        to every child. Together we can build a better future.
-    </p>
+🚀 OFFICIAL LAUNCH OF MAKIHACOIN (MKH) – EMPOWER AFRICA’S CHILDREN!
 
-    <p style="margin-top: 15px; font-size: 18px;">
-        💰 <strong>Contract Address:</strong><br>
-        <span style="font-size: 16px; color: #000;">
-            0x58AD581E78aa962Bf9b76AdE8cCb3172eF191A30
-        </span>
-    </p>
-</section>
+We are excited to announce that MakihaCoin (MKH) is officially launching on the Binance Smart Chain (BEP20).
+
+After a successful pre-sale, MKH is now ready for public trading!
+
+🔥 TRADING IS NOW LIVE!
+
+You can buy and sell MKH here:
+👉 PancakeSwap (MKH/BNB)
+
+📌 Key Information:
+
+Token: MakihaCoin (MKH)
+Contract: 0x58AD581E78aa962Bf9b76AdE8cCb3172eF191A30
+Network: BSC (BEP20)
+Initial Price: 1 MKH = 0.00011 BNB
+Send your Bnb: in 0x219E47460c669952bb506F2877c97B42067e6aeC
+Liquidity Locked: 12 Months (Proof will be shared shortly)
+
+💛 MKH Mission:
+
+To empower African children suffering from poverty, lack of education, and limited access to healthcare and shelter. Every transaction helps a child in need.
+
+🔗 Official Links:
+
+🌍 Website: https://kilumanga.github.io/makihacoin-website/
+
+📩 Email: mailto:makihacoinproject@gmail.com
+
+🐦 X: https://x.com/SKilumanga?s=09
+
+📸 Instagram: https://t.me/makihaCoin
+
+📱 WhatsApp: https://wa.me/message/HGRUHBNA4FRON1
+
+💬 Telegram Page: https://t.me/makihaCoin
+
+👥 Telegram Group: https://t.me/+D31OsLrzooAwMjJk
+
+🧵 Threads: https://www.threads.net/@mhkcoin
